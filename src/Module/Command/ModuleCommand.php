@@ -62,6 +62,7 @@ abstract class ModuleCommand extends BitrixCommand
 			new RemoveCommand(),
 			new UnregisterCommand(),
 			new UpdateCommand(),
+			new TestCommand(),
 		];
 	}
 
